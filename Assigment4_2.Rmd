@@ -1,0 +1,32 @@
+---
+title: "Developing Data Product - Course Project"
+author: "Luccas Betton"
+date: "05/01/2022"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(tidy.opts = list(width.cutoff=60),tidy = TRUE)
+```
+
+## Introduction
+
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## Objective
+
+For this assignment was created a Shiny application to present the miles per galon by weight from the dataset mtcars. 
+
+The user will be able to set the minium and maximum weight and miles per gallon  (y and x axis minimum and maximum), filter the data by the types of cylinders and/or by the type of transmission, and finally create a linear regression grouping by the cylinders, transimission or none.
+
+## Links
+
+Website: https://lbttn.shinyapps.io/DataDev-CourseProject/
+
+Github: https://github.com/LuccasBetton/Developing-Data-Products-Course-Project
+
+## Thank you for your time
+
+All the best for you!
+
+
